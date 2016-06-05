@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Messaging !</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Inbox</string>
+    <string name="title_section3">Send SMS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title">Title</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_smsgroup">SMSGroup</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
